@@ -4,3 +4,6 @@ a website for fashion designers and sellers
 LICENSE:
 
 MIT License
+
+Nikiya
+Mekayla
