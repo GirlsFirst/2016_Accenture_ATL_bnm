@@ -1,9 +1,13 @@
 # 2016_Accenture_ATL_bnm
 a website for fashion designers and sellers
 
-LICENSE:
 
-MIT License
+
+
+License: 
+
+MIT license 
 
 Nikiya
+Brianna
 Mekayla
