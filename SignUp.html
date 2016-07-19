@@ -9,8 +9,9 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </head>
 <body>
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
+<!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+ -->
     <div id="login-overlay" class="modal-dialog">
       <div class="modal-content">
           <div class="modal-header">
@@ -38,10 +39,20 @@
                                       <input type="checkbox" name="remember" id="remember"> Remember login
                                   </label>                             
                               </div>
-                              <button type="submit" class="btn btn-success btn-block">Login</button>
-                          </form>
+							  
+                              <button type="submit"  formaction="newhome_2.html" onclick="myFunction()" class="btn btn-success btn-block">Login</button>
+                         <script>
+function myFunction() {
+    alert('Welcome!! ');
+
+	}
+</script>
+						 </form>
                       </div>
                   </div>
+				
+
+
                   <div class="col-xs-6">
                       <p class="lead">Register now for <span class="text-success">FREE</span></p>
                       <ul class="list-unstyled" style="line-height: 2">
